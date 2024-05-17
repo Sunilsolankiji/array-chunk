@@ -11,11 +11,11 @@
     "url": "git+https://github.com/Sunilsolankiji/array-chunkify.git"
   },
   "keywords": [
-    "\"array\"",
-    "\"chunk\"",
-    "\"split\"",
-    "\"pagination\"",
-    "\"batching\""
+    "array",
+    "chunk",
+    "split",
+    "pagination",
+    "batching"
   ],
   "author": "Sunil Solanki",
   "license": "MIT",
